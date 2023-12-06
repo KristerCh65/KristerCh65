@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">I'm Krister Chavez</h1>
+### 
+<h1 align="center">Hi there 👋, I'm Krister Chavez</h1>
 <h3 align="center">A passionate developer from Honduras 🛡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristerch65&label=Profile%20views&color=0e75b6&style=flat" alt="kristerch65" /> &nbsp; <a href="https://linkedin.com/in/krister-munguia-5292511a8"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> </p>

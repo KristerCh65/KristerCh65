@@ -32,9 +32,10 @@
 
 <p>
   <a href="https://app.daily.dev/krisbch"><img src="https://api.daily.dev/devcards/v2/jLgxYsYGs9NVRvGVdEOJJ.png?type=wide&r=40j" width="652" alt="KrisBCh's Dev Card"/></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristerch65&show_icons=true&locale=en&layout=compact" alt="kristerch65" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kristerch65&show_icons=true&locale=en" alt="kristerch65" />
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=KristerCh65&limit=5&theme=oldie&combine_all_yearly_contributions=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristerch65&show_icons=true&locale=en&layout=compact" alt="kristerch65" />
+  
 </p>
 
   

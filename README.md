@@ -29,14 +29,19 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<table align="center" border="0">
+  <tr>
+    <td width="400">
+      <a href="https://app.daily.dev/krisbch"><img src="https://api.daily.dev/devcards/v2/jLgxYsYGs9NVRvGVdEOJJ.png?type=default&r=ykz" width="356" align="center" alt="KrisBCh's Dev Card"/></a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kristerch65&show_icons=true&locale=en&layout=compact" alt="kristerch65" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kristerch65&show_icons=true&locale=en" alt="kristerch65" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=KristerCh65&limit=5&theme=oldie&combine_all_yearly_contributions=true">
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://app.daily.dev/krisbch"><img src="https://api.daily.dev/devcards/v2/jLgxYsYGs9NVRvGVdEOJJ.png?type=wide&r=40j" width="652" alt="KrisBCh's Dev Card"/></a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristerch65&show_icons=true&locale=en&layout=compact" alt="kristerch65" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kristerch65&show_icons=true&locale=en" alt="kristerch65" />
-  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=KristerCh65&limit=5&theme=oldie&combine_all_yearly_contributions=true">
-  
-</p>
 
   
 

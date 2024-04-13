@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristerch65&label=Profile%20views&color=0e75b6&style=flat" alt="kristerch65" /> &nbsp; <a href="https://linkedin.com/in/krister-munguia-5292511a8"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> </p>
 
-- 🌱 I’m currently learning **Angular, .Net, React, NextJs**
+- 🌱 I’m currently learning **Angular, .Net, React, NextJs or Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KristerCh65](https://github.com/KristerCh65)
 

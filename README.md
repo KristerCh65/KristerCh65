@@ -32,11 +32,10 @@
 <table align="center" border="0">
   <tr>
     <td width="400">
-      <a href="https://app.daily.dev/krisbch"><img src="https://api.daily.dev/devcards/v2/jLgxYsYGs9NVRvGVdEOJJ.png?type=default&r=ykz" width="356" align="center" alt="KrisBCh's Dev Card"/></a>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kristerch65&show_icons=true&locale=en&layout=compact" alt="kristerch65" />
       <img src="https://github-readme-stats.vercel.app/api?username=kristerch65&show_icons=true&locale=en" alt="kristerch65" />
+    </td>
+    <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=KristerCh65&limit=5&theme=oldie&combine_all_yearly_contributions=true">
     </td>
   </tr>
